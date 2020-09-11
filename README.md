@@ -4,7 +4,7 @@ Modelación del problema:
 
 - Structs:
 
-`typedef struct procesos
+`typedef struct procesos\\
 {
 int PID;
 char *name;
